@@ -1,0 +1,7 @@
+fpdf2
+pandas
+matplotlib
+reportlab
+jinja2
+markdown2
+numpy
